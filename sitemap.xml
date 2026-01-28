@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://smsbat.com/</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/" />
+  </url>
+  
+  <!-- About -->
+  <url>
+    <loc>https://smsbat.com/about</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/about" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/about" />
+  </url>
+  
+  <!-- Services -->
+  <url>
+    <loc>https://smsbat.com/services</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/services" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/services" />
+  </url>
+  
+  <!-- Viber Services -->
+  <url>
+    <loc>https://smsbat.com/viber</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/viber" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/viber" />
+  </url>
+  
+  <!-- Viber Business Messages -->
+  <url>
+    <loc>https://smsbat.com/viber-business-messages</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/viber-business-messages" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/viber-business-messages" />
+  </url>
+  
+  <!-- Viber OTP -->
+  <url>
+    <loc>https://smsbat.com/viber-otp</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/viber-otp" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/viber-otp" />
+  </url>
+  
+  <!-- Viber Carousel -->
+  <url>
+    <loc>https://smsbat.com/viber-carousel</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/viber-carousel" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/viber-carousel" />
+  </url>
+  
+  <!-- Viber List Messages (Survey) -->
+  <url>
+    <loc>https://smsbat.com/viber-survey</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/viber-survey" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/viber-survey" />
+  </url>
+  
+  <!-- Viber Business Messages Custom Auto-reply -->
+  <url>
+    <loc>https://smsbat.com/viber-business-messages-custom-auto-reply</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/viber-business-messages-custom-auto-reply" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/viber-business-messages-custom-auto-reply" />
+  </url>
+  
+  <!-- Viber Business Calls -->
+  <url>
+    <loc>https://smsbat.com/viber-business-calls</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/viber-business-calls" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/viber-business-calls" />
+  </url>
+  
+  <!-- Viber Chatbots -->
+  <url>
+    <loc>https://smsbat.com/viber-chatbots</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/viber-chatbots" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/viber-chatbots" />
+  </url>
+  
+  <!-- SMSBAT Cascade RESTful API -->
+  <url>
+    <loc>https://smsbat.com/smsbat-cascade-restful-api</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/smsbat-cascade-restful-api" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/smsbat-cascade-restful-api" />
+  </url>
+  
+  <!-- Bot Constructor -->
+  <url>
+    <loc>https://smsbat.com/bots-constructor</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/bots-constructor" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/bots-constructor" />
+  </url>
+  
+  <!-- n8n Integration & AI Agents -->
+  <url>
+    <loc>https://smsbat.com/n8n-ai-agents</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/n8n-ai-agents" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/n8n-ai-agents" />
+  </url>
+  
+  <!-- Omnichannel Contact Center -->
+  <url>
+    <loc>https://smsbat.com/chat</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/chat" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/chat" />
+  </url>
+  
+  <!-- ChatHub API -->
+  <url>
+    <loc>https://smsbat.com/chathub</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/chathub" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/chathub" />
+  </url>
+  
+  <!-- Register Bot -->
+  <url>
+    <loc>https://smsbat.com/register-bot</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/register-bot" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/register-bot" />
+  </url>
+  
+  <!-- Contacts -->
+  <url>
+    <loc>https://smsbat.com/contacts</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/contacts" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/contacts" />
+  </url>
+  
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://smsbat.com/privacy</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/privacy" />
+  </url>
+  
+  <url>
+    <loc>https://smsbat.com/use-terms</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/use-terms" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/use-terms" />
+  </url>
+  
+  <url>
+    <loc>https://smsbat.com/dmca</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/dmca" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/dmca" />
+  </url>
+  
+  <!-- Technical -->
+  <url>
+    <loc>https://smsbat.com/tech</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://smsbat.com/tech" />
+    <xhtml:link rel="alternate" hreflang="uk-ua" href="https://smsbat.com/uk-ua/tech" />
+  </url>
+
+</urlset>

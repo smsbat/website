@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+        <loc>/</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/about</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/about" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/about" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/about" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/bots-constructor</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/bots-constructor" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/bots-constructor" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/bots-constructor" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/chat</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/chat" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/chat" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/chat" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/chathub</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/chathub" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/chathub" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/chathub" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/contacts</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/contacts" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/contacts" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/contacts" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <loc>/dmca</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/dmca" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/dmca" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/dmca" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/n8n-ai-agents</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/n8n-ai-agents" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/n8n-ai-agents" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/n8n-ai-agents" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <loc>/privacy</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/privacy" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/privacy" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/privacy" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/register-bot</loc>
+        <lastmod>2026-01-26T10:22:05Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/register-bot" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/register-bot" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/register-bot" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/services</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/services" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/services" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/services" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/smsbat-cascade-restful-api</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/smsbat-cascade-restful-api" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/smsbat-cascade-restful-api" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/smsbat-cascade-restful-api" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <loc>/tech</loc>
+        <xhtml:link rel="alternate" href="/tech" hreflang="en-us" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <loc>/use-terms</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/use-terms" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/use-terms" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/use-terms" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/viber</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/viber" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/viber" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/viber" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/viber-business-calls</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/viber-business-calls" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/viber-business-calls" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/viber-business-calls" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/viber-business-messages</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/viber-business-messages" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/viber-business-messages" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/viber-business-messages" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/viber-business-messages-custom-auto-reply</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/viber-business-messages-custom-auto-reply" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/viber-business-messages-custom-auto-reply" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/viber-business-messages-custom-auto-reply" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/viber-carousel</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/viber-carousel" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/viber-carousel" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/viber-carousel" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/viber-chatbots</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/viber-chatbots" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/viber-chatbots" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/viber-chatbots" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/viber-otp</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/viber-otp" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/viber-otp" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/viber-otp" />
+    </url>
+    <url>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <loc>/viber-survey</loc>
+        <lastmod>2026-01-26T10:11:56Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="en-us" href="/viber-survey" />
+        <xhtml:link rel="alternate" hreflang="uk-ua" href="/uk-ua/viber-survey" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/viber-survey" />
+    </url>
+</urlset>
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.3.5 at 2026-01-28T23:45:20.503Z -->
