@@ -1,0 +1,1 @@
+{"id":"8c8cc4bf-6bdf-41a3-946f-95b14705f69b","timestamp":1769647574677,"matcher":{"static":{"/ua/register-bot":{"redirect":"/uk-ua/register-bot"},"/ua/viber-chatbots":{"redirect":"/uk-ua/viber-chatbots"},"/sitemap.xml":{"redirect":"/sitemap_index.xml"}},"wildcard":{},"dynamic":{}},"prerendered":[]}
